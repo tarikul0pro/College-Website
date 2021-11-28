@@ -1,0 +1,18 @@
+
+.img{
+   width:50px;
+   height: auto;
+}
+.navcar{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: large;
+   text-align: right;
+}
+.vanbar Nav.Link:hover{
+color: tomato;
+text-align: right;
+background-color: mediumvioletred;
+}
+.navbar{
+   text-align: right;
+}

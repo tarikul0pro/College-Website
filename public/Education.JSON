@@ -1,0 +1,49 @@
+[
+  {
+    "img": "https://i.insider.com/57b586c7dd0895981e8b4a78?width=854&format=jpeg",
+    "address": "Oxford OX1 2JD, United Kingdom",
+    "phone": "+44 1865 270000",
+    "acceptancerate": 17.5,
+    "founded": "1096, Oxford, United Kingdom",
+    "totalenrollment": "23,975(2017)"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LrIUkCIQp8SEa_tRe5Aay6Ebrw4IC2zfOw&usqp=CAU",
+    "phone": "+44 1223 337733",
+    "acceptancerate": 21.5,
+    "founded": "1209, Cambridge, United Kingdom",
+    "totalenrollment": "21,656 (2016)"
+  },
+  {
+    "img": "https://images.squarespace-cdn.com/content/v1/538b9117e4b069623d97ee9e/1581057051691-GM25T1US6AP574GN45L9/Shared+from+Lightroom+mobile+%282%29.jpg",
+    "address": " Stanford, CA 94305, United States",
+    "phone": " +1 650-723-2300",
+    "acceptancerate": 25.5,
+    "founded": "1096, Stanford , United Kingdom",
+    "totalenrollment": "17,000(2019)"
+  },
+  {
+    "img": "https://d.newsweek.com/en/full/749297/gettyimages-81463238.jpg",
+    "address": "Cambridge, MA, United States",
+    "phone": "+1 617-495-1000",
+    "acceptancerate": 22.5,
+    "founded": "1096, Harvard , United Kingdom",
+    "totalenrollment": "27,856(2015)"
+  },
+   {
+    "img": "https://pbs.twimg.com/media/EH5Mss-WwAEtcKE.jpg",
+    "address": "Cambridge",
+    "phone": "+1 617-253-1000",
+    "acceptancerate": 30.5,
+    "founded": "1096, Massachusetts , United Kingdom",
+    "totalenrollment": "18,856(2015)"
+  },
+   {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrvZ3Hp6To7qCyc6iR3OifA7lWnmRZ9yF2OTJEgeCZDivcgkP-oa4CQ6crVd8ucnas3R0&usqp=CAU",
+    "address": " Pasadena,USA",
+    "phone": "+1 626-395-6811",
+    "acceptancerate": 17.5,
+    "founded": "1096, California , United Kingdom",
+    "totalenrollment": "27,856(2015)"
+  }
+] 

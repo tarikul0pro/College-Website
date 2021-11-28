@@ -1,0 +1,18 @@
+.contact{
+    background-color: gainsboro;
+}
+.text{
+    color: tomato;
+}
+.button{
+border-radius: 20px;
+
+}
+.form{
+    border: 10px solid rgb(224, 137, 122);
+
+}
+.images{
+    display: flex;
+    margin: 10px;
+}
